@@ -1,7 +1,7 @@
 {
 	"song": {
-		"player1": "cyborgupo",
-		"player2": "birdie",
+		"player1": "bf",
+		"player2": "dad",
 		"events": [],
 		"notes": [
 			{
@@ -7079,8 +7079,8 @@
 		"gfVersion": "gf",
 		"player3": null,
 		"splashSkin": "noteSplashes",
-		"song": "look",
-		"stage": "cyborg",
+		"song": "bopeebo",
+		"stage": "stage",
 		"validScore": true,
 		"arrowSkin": "",
 		"needsVoices": true,
