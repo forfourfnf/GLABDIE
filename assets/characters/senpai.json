@@ -2,77 +2,121 @@
 	"animations": [
 		{
 			"offsets": [
-				1,
-				0
+				35,
+				-28
 			],
 			"loop": false,
-			"anim": "idle",
 			"fps": 24,
-			"name": "Senpai Idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Robin Idle Dance"
 		},
 		{
 			"offsets": [
-				5,
-				37
+				-3,
+				-9
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "SENPAI UP NOTE"
+			"name": "Robin Sing Note Up0"
 		},
 		{
 			"offsets": [
-				0,
-				0
+				-1,
+				-18
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singRIGHT",
+			"anim": "singUPmiss",
 			"indices": [],
-			"name": "SENPAI RIGHT NOTE"
+			"name": "Robin Miss"
 		},
 		{
 			"offsets": [
-				40,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "SENPAI LEFT NOTE"
-		},
-		{
-			"offsets": [
-				14,
-				0
+				-18,
+				-76
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "SENPAI DOWN NOTE"
+			"name": "Robin Sing Note Down0"
+		},
+		{
+			"offsets": [
+				-1,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Robin Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-32
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Robin Sing Note Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-18
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Robin Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				-52
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Robin Sing Note Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-18
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Robin Miss",
+			"indices": []
 		}
 	],
-	"no_antialiasing": true,
+	"no_antialiasing": false,
 	"image": "characters/senpai",
 	"position": [
-		150,
-		360
+		-410,
+		21
 	],
 	"healthicon": "senpai-pixel",
-	"flip_x": false,
+	"flip_x": true,
 	"healthbar_colors": [
-		255,
-		170,
-		111
+		85,
+		232,
+		88
 	],
 	"camera_position": [
-		-240,
-		-330
+		-70,
+		-10
 	],
 	"sing_duration": 4,
-	"scale": 6
+	"scale": 1
 }
