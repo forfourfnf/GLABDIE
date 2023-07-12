@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "bf",
+		"player1": "pico-player",
 		"events": [
 			[
 				13714.2857142856,
@@ -963,7 +963,7 @@
 				]
 			]
 		],
-		"gfVersion": "bgwindow-evil",
+		"gfVersion": "pico",
 		"notes": [
 			{
 				"sectionNotes": [
@@ -5943,9 +5943,29 @@
 				"sectionBeats": 4,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 140,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 140,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
 			}
 		],
-		"player2": "dad",
+		"player2": "monster",
 		"player3": "gf",
 		"song": "monster",
 		"arrowSkin": "",
