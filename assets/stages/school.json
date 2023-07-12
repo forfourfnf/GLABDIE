@@ -1,9 +1,9 @@
 {
 	"directory": "week6",
-	"defaultZoom": 0.88,
-	"isPixelStage": false,
+	"defaultZoom": 1.05,
+	"isPixelStage": true,
 
-	"boyfriend": [1420, 350],
-	"girlfriend": [750, 300],
-	"opponent": [450, 350]
+	"boyfriend": [970, 320],
+	"girlfriend": [580, 430],
+	"opponent": [100, 100]
 }
