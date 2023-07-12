@@ -1,121 +1,121 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				3,
-				0
+				35,
+				-28
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Pico Idle Dance",
-			"indices": []
+			"indices": [],
+			"name": "Robin Idle Dance"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				21,
-				27
+				-3,
+				-9
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "pico Up note0",
-			"indices": []
+			"indices": [],
+			"name": "Robin Sing Note Up0"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				84,
-				-80
+				-1,
+				-18
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "Pico Down Note0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				80,
-				-38
-			],
-			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "Pico Down Note MISS",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				28,
-				67
-			],
 			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Robin Miss"
+		},
+		{
+			"offsets": [
+				-18,
+				-76
+			],
+			"loop": false,
 			"fps": 24,
-			"name": "pico Up note miss",
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Robin Sing Note Down0"
+		},
+		{
+			"offsets": [
+				-1,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Robin Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-32
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Robin Sing Note Right0",
 			"indices": []
 		},
 		{
-			"offsets": [
-				-48,
-				2
-			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Pico Note Right0"
-		},
-		{
 			"offsets": [
-				85,
-				-10
+				-1,
+				-18
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Pico NOTE LEFT0"
-		},
-		{
-			"offsets": [
-				-45,
-				50
-			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "Pico Note Right Miss"
+			"fps": 24,
+			"name": "Robin Miss",
+			"indices": []
 		},
 		{
-			"offsets": [
-				83,
-				28
-			],
 			"loop": false,
+			"offsets": [
+				104,
+				-52
+			],
+			"anim": "singLEFT",
 			"fps": 24,
+			"name": "Robin Sing Note Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-18
+			],
 			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "Pico NOTE LEFT miss"
+			"fps": 24,
+			"name": "Robin Miss",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Pico_FNF_assetss",
+	"image": "characters/monsterChristmas",
 	"position": [
-		0,
-		300
+		-410,
+		21
 	],
-	"healthicon": "pico",
+	"healthicon": "senpai-pixel",
 	"flip_x": true,
 	"healthbar_colors": [
-		183,
-		216,
-		85
+		85,
+		232,
+		88
 	],
 	"camera_position": [
-		220,
-		0
+		-70,
+		-10
 	],
 	"sing_duration": 4,
 	"scale": 1

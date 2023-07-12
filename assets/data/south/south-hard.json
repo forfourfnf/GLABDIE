@@ -1,7 +1,7 @@
 {
 	"song": {
-		"player1": "bf",
-		"gfVersion": "gf",
+		"player1": "senpai",
+		"gfVersion": "mom",
 		"notes": [
 			{
 				"sectionBeats": 4,
@@ -5972,6 +5972,26 @@
 				"sectionBeats": 4,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 100,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 100,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
 			}
 		],
 		"events": [
@@ -6936,7 +6956,7 @@
 				]
 			]
 		],
-		"player2": "dad",
+		"player2": "parents-christmas",
 		"player3": "gf",
 		"splashSkin": "noteSplashes",
 		"song": "south",
