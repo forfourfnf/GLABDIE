@@ -1,21 +1,40 @@
 {
 	"songs": [
-		["Spookeez", "parents", [34, 51, 68]],
-		["South", "parents", [34, 51, 68]],
+		[
+			"Spookeez",
+			"parents",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"South",
+			"parents",
+			[
+				146,
+				113,
+				253
+			]
+		]
 	],
-
 	"weekCharacters": [
-		"spooky",
+		"dad",
 		"bf",
 		"gf"
 	],
 	"weekBackground": "stage",
-
-	"storyName": "Guys! Look! A BirdBF! V2",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
+	"weekBefore": "tutorial",
+	"storyName": "Guys Look! A BirdBF! V2",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"startUnlocked": true,
-
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hideFreeplay": false,
+	"difficulties": ""
 }
