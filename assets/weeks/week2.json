@@ -1,8 +1,7 @@
 {
 	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+		["Spookeez", "parents", [34, 51, 68]],
+		["South", "parents", [34, 51, 68]],
 	],
 
 	"weekCharacters": [
@@ -10,9 +9,9 @@
 		"bf",
 		"gf"
 	],
-	"weekBackground": "halloween",
+	"weekBackground": "stage",
 
-	"storyName": "Spooky Month",
+	"storyName": "Guys! Look! V2",
 	"weekBefore": "week1",
 	"weekName": "Week 2",
 	"startUnlocked": true,

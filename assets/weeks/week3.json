@@ -1,8 +1,7 @@
 {
 	"songs": [
+		["Monster", "pico", [148, 22, 83]],
 		["Pico", "pico", [148, 22, 83]],
-		["Philly Nice", "pico", [148, 22, 83]],
-		["Blammed", "pico", [148, 22, 83]]
 	],
 
 	"weekCharacters": [
@@ -10,9 +9,9 @@
 		"bf",
 		"gf"
 	],
-	"weekBackground": "philly",
+	"weekBackground": "stage",
 
-	"storyName": "PICO",
+	"storyName": "Guys...",
 	"weekBefore": "week2",
 	"weekName": "Week 3",
 	"startUnlocked": true,
